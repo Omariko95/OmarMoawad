@@ -36,7 +36,7 @@
 </p> -->
 
 
-<h3 align="left">Technlogies:</h3>
+<h3 align="left">Technologies:</h3>
 <p align="center"> 
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
