@@ -18,6 +18,14 @@
 
 #### 🛣️ Personal, Projects & Useful repos
 
+<!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
+<p align="left">
+<a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moabukar_1" height="30" width="40" /></a>
+<a href="https://medium.com/@moabukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moabukar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abukar" height="30" width="40" /></a>
+</p> -->
+
+
 <h3 align="left">Technologies:</h3>
 <p align="center"> 
 
@@ -27,13 +35,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 
-
-<!-- <h3 align="left">Connect with me 🤝🏻 :</h3>
-<p align="left">
-<a href="https://twitter.com/moabukar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moabukar_1" height="30" width="40" /></a>
-<a href="https://medium.com/@moabukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moabukar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-abukar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abukar" height="30" width="40" /></a>
-</p> -->
 
 
 <!-- <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
