@@ -15,16 +15,6 @@
 
 <!-- ### Hi there, I'm Omar 👋
 🔭  Omar is an Engineer at heart. A Cloud-Native, DevOps and GitOps Enthusiast who has a passion for learning new technologies and sharing his knowledge to the community.
-🌱  Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project -->
-
-
-### 📕 Latest Blog Posts
-
-
-### 🎯 Works
-
-#### Community Maintained
-
 
 #### 🛣️ Personal, Projects & Useful repos
 
