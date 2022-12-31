@@ -31,7 +31,7 @@
   
   
 <p align="left">           
-<a href=""><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90%22%3E width="20" height="20"/</a>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90%22%3E width="20" height="20"/</a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker%22%3E width="20" height="20"/</a>    
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes%22%3E width="20" height="20"/</a>     
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux%22%3E width="20" height="20"/</a>       
