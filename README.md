@@ -36,7 +36,7 @@
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes%22%3E width="20" height="20"/</a>     
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux%22%3E width="20" height="20"/</a>    
 <a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white%22%3E width="20" height="20"/</a>    
-<a href="#"><img alt="Terraform" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png%22%3E width="20" height="20"/</a>      
+<a href="#"><img alt="Terraform" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png%22%3E](https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg width="20" height="20"/</a>      
 </p>  
 
 <!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
