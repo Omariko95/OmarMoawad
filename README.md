@@ -43,13 +43,13 @@
 </a> 
 <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png" alt="Terraform" width="40" height="40"/> </a>
   
-<p align="center">           
-<a href="https://www.nba.com"><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90%22%3E</a>     
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker%22%3E</a>    
-<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes%22%3E</a>     
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux%22%3E</a>    
-<a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white%22%3E</a>    
-<a href="#"><img alt="Terraform" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png%22%3E</a>      
+<p align="left">           
+<a href=""><img alt="AWS" src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90%22%3E width="40" height="40"/</a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-000?&logo=Docker%22%3E width="40" height="40"/</a>    
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes%22%3E width="40" height="40"/</a>     
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux%22%3E width="40" height="40"/</a>    
+<a href="#"><img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white%22%3E width="40" height="40"/</a>    
+<a href="#"><img alt="Terraform" src="https://opensenselabs.com/sites/default/files/inline-images/terraform.png%22%3E width="40" height="40"/</a>      
 </p>  
   
   
